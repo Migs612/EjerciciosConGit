@@ -1,0 +1,3 @@
+[submodule "libro-git"]
+	path = libro-git
+	url = https://github.com/Migs612/libro-git.git
